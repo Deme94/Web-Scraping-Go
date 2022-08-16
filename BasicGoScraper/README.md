@@ -1,3 +1,3 @@
 # BasicGoScraper
 
-![test](/test.png?raw=true)
+![test](/BasicGoScraper/test.png?raw=true)
