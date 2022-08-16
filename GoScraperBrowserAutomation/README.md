@@ -1,3 +1,3 @@
 # GoScraperBrowserAutomation
 
-![test](/test.png?raw=true)
+![test](/GoScraperBrowserAutomation/test.png?raw=true)
